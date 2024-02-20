@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: page
 title: "Home"
 ---
 
 ## Hei!
 
-Sjekker at dette funker
+Og at dette funker
